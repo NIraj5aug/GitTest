@@ -5,5 +5,5 @@ date
 cal 2019  > outputcal.txt
 cat outputcal.txt
 
-yum -y install telnet httpd lynx
+sudo yum -y install telnet httpd lynx
 
